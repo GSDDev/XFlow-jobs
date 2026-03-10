@@ -10,7 +10,7 @@ Nombre: GSD01_AbrirTXT - Apertura y escritura de archivo TXT
 Descripción: Este job abre un archivo de texto, escribe "HOLA MUNDO", 
              mantiene el archivo abierto por 15 segundos y luego lo cierra.
 
-Autor: [Tu Nombre]
+Autor: gsduran
 Versión: 1.0.0
 Fecha: 2024
 Tags: archivos, txt, ejemplo, basico, demostracion
